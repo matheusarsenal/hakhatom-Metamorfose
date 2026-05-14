@@ -1,12 +1,17 @@
-# Metamorfose-
+# hakhatom jornada da tecnologia 2026
 
-This is a [Next.js](https://nextjs.org) project bootstrapped with [v0](https://v0.app).
+Nos dias 4, 5 e 6 de maio de 2026, houve a jornada da tecnologia, com diversos eventos 
+palestras, workshoop's, minicursos.
 
-## Built with v0
+e dentre esses eventos, ocorreu um hakhatom, denominado HACK.COMP
+onde o problematica foi "Saúde e bem estar:
+Criando soluções
+tecnológicas para uma
+vida melhor" mais especificadamente a ODS de numero 3
 
-This repository is linked to a [v0](https://v0.app) project. You can continue developing by visiting the link below -- start new chats to make changes, and v0 will push commits directly to this repo. Every merge to `main` will automatically deploy.
 
-[Continue working on v0 →](https://v0.app/chat/projects/prj_xwpqQSGEonTcd3BA3Ex38dMdEnzR)
+# Metamorfose
+
 
 ## Getting Started
 
